@@ -3,6 +3,9 @@
 === New features
 * 한국어! (Korean!) (John Hwang)
 
+=== Bugfixes
+* Fixed Autotest's quoting of scenario names containing single-quotes. (Peter Jaros)
+
 == 0.1.14 2009-01-04
 
 This is the first release of Cucumber that runs on Ruby 1.9. There are still some encoding-related issues 
